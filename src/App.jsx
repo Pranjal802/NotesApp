@@ -2,8 +2,8 @@ import './App.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Nav from './components/nav';
 import Home from './components/home';
-import Pastes from './components/pastes';
-import ViewPaste from './components/viewpaste';
+import Pastes from './components/Pastes';
+import ViewPaste from './components/ViewPaste';
 
 const router = createBrowserRouter(
   [
