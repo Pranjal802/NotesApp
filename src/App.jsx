@@ -1,7 +1,7 @@
 import './App.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
-import Nav from './components/nav';
-import Home from './components/home';
+import Nav from './components/Nav';
+import Home from './components/Home';
 import Pastes from './components/Pastes';
 import ViewPaste from './components/ViewPaste';
 
