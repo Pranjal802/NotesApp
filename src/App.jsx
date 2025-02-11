@@ -4,8 +4,9 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Home from './components/Home';
 import Pastes from './components/Pastes';
 import ViewPaste from './components/ViewPaste';
-// import Nav from './components/Nav';
 import Nav from './components/nav';
+// import Nav from './components/Nav';
+// import Nav from './components/Nav';
 
 const router = createBrowserRouter(
   [
