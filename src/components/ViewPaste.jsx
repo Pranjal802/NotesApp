@@ -43,4 +43,4 @@ const ViewPaste = () =>{
     </div>
     )
 }
-export default ViewPaste
+export default ViewPaste;
